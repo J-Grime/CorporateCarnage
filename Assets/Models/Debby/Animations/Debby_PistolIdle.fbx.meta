@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 6f3985c5b2d60dc4095110d49b1e8b57
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DebbyRig_TEST:Debby_Combined:polySurface28
+    100004: DebbyRig_TEST:DebbyCharacter_Head
+    100006: DebbyRig_TEST:DebbyCharacter_Hips
+    100008: DebbyRig_TEST:DebbyCharacter_LeftArm
+    100010: DebbyRig_TEST:DebbyCharacter_LeftFoot
+    100012: DebbyRig_TEST:DebbyCharacter_LeftForeArm
+    100014: DebbyRig_TEST:DebbyCharacter_LeftHand
+    100016: DebbyRig_TEST:DebbyCharacter_LeftLeg
+    100018: DebbyRig_TEST:DebbyCharacter_LeftShoulder
+    100020: DebbyRig_TEST:DebbyCharacter_LeftToeBase
+    100022: DebbyRig_TEST:DebbyCharacter_LeftUpLeg
+    100024: DebbyRig_TEST:DebbyCharacter_Neck
+    100026: DebbyRig_TEST:DebbyCharacter_Reference
+    100028: DebbyRig_TEST:DebbyCharacter_RightArm
+    100030: DebbyRig_TEST:DebbyCharacter_RightFoot
+    100032: DebbyRig_TEST:DebbyCharacter_RightForeArm
+    100034: DebbyRig_TEST:DebbyCharacter_RightHand
+    100036: DebbyRig_TEST:DebbyCharacter_RightLeg
+    100038: DebbyRig_TEST:DebbyCharacter_RightShoulder
+    100040: DebbyRig_TEST:DebbyCharacter_RightToeBase
+    100042: DebbyRig_TEST:DebbyCharacter_RightUpLeg
+    100044: DebbyRig_TEST:DebbyCharacter_Spine
+    100046: DebbyRig_TEST:DebbyCharacter_Spine1
+    100048: DebbyRig_TEST:DebbyCharacter_Spine2
+    100050: DebbyRig_TEST:joint1
+    100052: DebbyRig_TEST:joint10
+    100054: DebbyRig_TEST:joint11
+    100056: DebbyRig_TEST:joint12
+    100058: DebbyRig_TEST:joint13
+    100060: DebbyRig_TEST:joint14
+    100062: DebbyRig_TEST:joint15
+    100064: DebbyRig_TEST:joint16
+    100066: DebbyRig_TEST:joint17
+    100068: DebbyRig_TEST:joint18
+    100070: DebbyRig_TEST:joint19
+    100072: DebbyRig_TEST:joint2
+    100074: DebbyRig_TEST:joint2 1
+    100076: DebbyRig_TEST:joint2 2
+    100078: DebbyRig_TEST:joint2 3
+    100080: DebbyRig_TEST:joint20
+    100082: DebbyRig_TEST:joint21
+    100084: DebbyRig_TEST:joint22
+    100086: DebbyRig_TEST:joint23
+    100088: DebbyRig_TEST:joint24
+    100090: DebbyRig_TEST:joint25
+    100092: DebbyRig_TEST:joint26
+    100094: DebbyRig_TEST:joint27
+    100096: DebbyRig_TEST:joint28
+    100098: DebbyRig_TEST:joint29
+    100100: DebbyRig_TEST:joint3
+    100102: DebbyRig_TEST:joint3 1
+    100104: DebbyRig_TEST:joint3 2
+    100106: DebbyRig_TEST:joint3 3
+    100108: DebbyRig_TEST:joint30
+    100110: DebbyRig_TEST:joint31
+    100112: DebbyRig_TEST:joint32
+    100114: DebbyRig_TEST:joint33
+    100116: DebbyRig_TEST:joint34
+    100118: DebbyRig_TEST:joint35
+    100120: DebbyRig_TEST:joint36
+    100122: DebbyRig_TEST:joint37
+    100124: DebbyRig_TEST:joint38
+    100126: DebbyRig_TEST:joint4
+    100128: DebbyRig_TEST:joint4 1
+    100130: DebbyRig_TEST:joint4 2
+    100132: DebbyRig_TEST:joint4 3
+    100134: DebbyRig_TEST:joint5
+    100136: DebbyRig_TEST:joint5 1
+    100138: DebbyRig_TEST:joint5 2
+    100140: DebbyRig_TEST:joint5 3
+    100142: DebbyRig_TEST:joint6
+    100144: DebbyRig_TEST:joint7
+    100146: DebbyRig_TEST:joint8
+    100148: DebbyRig_TEST:joint9
+    400000: //RootNode
+    400002: DebbyRig_TEST:Debby_Combined:polySurface28
+    400004: DebbyRig_TEST:DebbyCharacter_Head
+    400006: DebbyRig_TEST:DebbyCharacter_Hips
+    400008: DebbyRig_TEST:DebbyCharacter_LeftArm
+    400010: DebbyRig_TEST:DebbyCharacter_LeftFoot
+    400012: DebbyRig_TEST:DebbyCharacter_LeftForeArm
+    400014: DebbyRig_TEST:DebbyCharacter_LeftHand
+    400016: DebbyRig_TEST:DebbyCharacter_LeftLeg
+    400018: DebbyRig_TEST:DebbyCharacter_LeftShoulder
+    400020: DebbyRig_TEST:DebbyCharacter_LeftToeBase
+    400022: DebbyRig_TEST:DebbyCharacter_LeftUpLeg
+    400024: DebbyRig_TEST:DebbyCharacter_Neck
+    400026: DebbyRig_TEST:DebbyCharacter_Reference
+    400028: DebbyRig_TEST:DebbyCharacter_RightArm
+    400030: DebbyRig_TEST:DebbyCharacter_RightFoot
+    400032: DebbyRig_TEST:DebbyCharacter_RightForeArm
+    400034: DebbyRig_TEST:DebbyCharacter_RightHand
+    400036: DebbyRig_TEST:DebbyCharacter_RightLeg
+    400038: DebbyRig_TEST:DebbyCharacter_RightShoulder
+    400040: DebbyRig_TEST:DebbyCharacter_RightToeBase
+    400042: DebbyRig_TEST:DebbyCharacter_RightUpLeg
+    400044: DebbyRig_TEST:DebbyCharacter_Spine
+    400046: DebbyRig_TEST:DebbyCharacter_Spine1
+    400048: DebbyRig_TEST:DebbyCharacter_Spine2
+    400050: DebbyRig_TEST:joint1
+    400052: DebbyRig_TEST:joint10
+    400054: DebbyRig_TEST:joint11
+    400056: DebbyRig_TEST:joint12
+    400058: DebbyRig_TEST:joint13
+    400060: DebbyRig_TEST:joint14
+    400062: DebbyRig_TEST:joint15
+    400064: DebbyRig_TEST:joint16
+    400066: DebbyRig_TEST:joint17
+    400068: DebbyRig_TEST:joint18
+    400070: DebbyRig_TEST:joint19
+    400072: DebbyRig_TEST:joint2
+    400074: DebbyRig_TEST:joint2 1
+    400076: DebbyRig_TEST:joint2 2
+    400078: DebbyRig_TEST:joint2 3
+    400080: DebbyRig_TEST:joint20
+    400082: DebbyRig_TEST:joint21
+    400084: DebbyRig_TEST:joint22
+    400086: DebbyRig_TEST:joint23
+    400088: DebbyRig_TEST:joint24
+    400090: DebbyRig_TEST:joint25
+    400092: DebbyRig_TEST:joint26
+    400094: DebbyRig_TEST:joint27
+    400096: DebbyRig_TEST:joint28
+    400098: DebbyRig_TEST:joint29
+    400100: DebbyRig_TEST:joint3
+    400102: DebbyRig_TEST:joint3 1
+    400104: DebbyRig_TEST:joint3 2
+    400106: DebbyRig_TEST:joint3 3
+    400108: DebbyRig_TEST:joint30
+    400110: DebbyRig_TEST:joint31
+    400112: DebbyRig_TEST:joint32
+    400114: DebbyRig_TEST:joint33
+    400116: DebbyRig_TEST:joint34
+    400118: DebbyRig_TEST:joint35
+    400120: DebbyRig_TEST:joint36
+    400122: DebbyRig_TEST:joint37
+    400124: DebbyRig_TEST:joint38
+    400126: DebbyRig_TEST:joint4
+    400128: DebbyRig_TEST:joint4 1
+    400130: DebbyRig_TEST:joint4 2
+    400132: DebbyRig_TEST:joint4 3
+    400134: DebbyRig_TEST:joint5
+    400136: DebbyRig_TEST:joint5 1
+    400138: DebbyRig_TEST:joint5 2
+    400140: DebbyRig_TEST:joint5 3
+    400142: DebbyRig_TEST:joint6
+    400144: DebbyRig_TEST:joint7
+    400146: DebbyRig_TEST:joint8
+    400148: DebbyRig_TEST:joint9
+    2100000: DebbyRig_TEST_Debby_Combined_initialShadingGroup1
+    2100002: DebbyRig_TEST_Debby_Combined_Cynthia_Character_initialShadingGroup1
+    4300000: DebbyRig_TEST:Debby_Combined:polySurface28
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: DebbyRig_TEST:Debby_Combined:polySurface28
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 750
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

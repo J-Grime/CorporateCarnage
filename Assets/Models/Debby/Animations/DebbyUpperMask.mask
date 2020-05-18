@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DebbyUpperMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:Debby_Combined:polySurface28
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_LeftUpLeg
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_LeftUpLeg/DebbyRig_TEST:DebbyCharacter_LeftLeg
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_LeftUpLeg/DebbyRig_TEST:DebbyCharacter_LeftLeg/DebbyRig_TEST:DebbyCharacter_LeftFoot
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_LeftUpLeg/DebbyRig_TEST:DebbyCharacter_LeftLeg/DebbyRig_TEST:DebbyCharacter_LeftFoot/DebbyRig_TEST:DebbyCharacter_LeftToeBase
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_RightUpLeg
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_RightUpLeg/DebbyRig_TEST:DebbyCharacter_RightLeg
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_RightUpLeg/DebbyRig_TEST:DebbyCharacter_RightLeg/DebbyRig_TEST:DebbyCharacter_RightFoot
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_RightUpLeg/DebbyRig_TEST:DebbyCharacter_RightLeg/DebbyRig_TEST:DebbyCharacter_RightFoot/DebbyRig_TEST:DebbyCharacter_RightToeBase
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine
+    m_Weight: 0
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint13
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint13/DebbyRig_TEST:joint14
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint13/DebbyRig_TEST:joint14/DebbyRig_TEST:joint15
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint13/DebbyRig_TEST:joint14/DebbyRig_TEST:joint15/DebbyRig_TEST:joint16
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint13/DebbyRig_TEST:joint14/DebbyRig_TEST:joint15/DebbyRig_TEST:joint16/DebbyRig_TEST:joint17
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint18
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint18/DebbyRig_TEST:joint19
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint18/DebbyRig_TEST:joint19/DebbyRig_TEST:joint20
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint18/DebbyRig_TEST:joint19/DebbyRig_TEST:joint20/DebbyRig_TEST:joint21
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint18/DebbyRig_TEST:joint19/DebbyRig_TEST:joint20/DebbyRig_TEST:joint21/DebbyRig_TEST:joint22
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint23
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint23/DebbyRig_TEST:joint24
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint23/DebbyRig_TEST:joint24/DebbyRig_TEST:joint25
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint23/DebbyRig_TEST:joint24/DebbyRig_TEST:joint25/DebbyRig_TEST:joint26
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint23/DebbyRig_TEST:joint24/DebbyRig_TEST:joint25/DebbyRig_TEST:joint26/DebbyRig_TEST:joint27
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint28
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint28/DebbyRig_TEST:joint29
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint28/DebbyRig_TEST:joint29/DebbyRig_TEST:joint30
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint28/DebbyRig_TEST:joint29/DebbyRig_TEST:joint30/DebbyRig_TEST:joint31
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint28/DebbyRig_TEST:joint29/DebbyRig_TEST:joint30/DebbyRig_TEST:joint31/DebbyRig_TEST:joint32
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint33
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint33/DebbyRig_TEST:joint34
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint33/DebbyRig_TEST:joint34/DebbyRig_TEST:joint35
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_LeftShoulder/DebbyRig_TEST:DebbyCharacter_LeftArm/DebbyRig_TEST:DebbyCharacter_LeftForeArm/DebbyRig_TEST:joint38/DebbyRig_TEST:DebbyCharacter_LeftHand/DebbyRig_TEST:joint33/DebbyRig_TEST:joint34/DebbyRig_TEST:joint35/DebbyRig_TEST:joint36
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_Neck
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_Neck/DebbyRig_TEST:DebbyCharacter_Head
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint1
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint1/DebbyRig_TEST:joint2
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint1/DebbyRig_TEST:joint2/DebbyRig_TEST:joint3
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint1/DebbyRig_TEST:joint2/DebbyRig_TEST:joint3/DebbyRig_TEST:joint4
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint1/DebbyRig_TEST:joint2/DebbyRig_TEST:joint3/DebbyRig_TEST:joint4/DebbyRig_TEST:joint5
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint6
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint6/DebbyRig_TEST:joint2
+      1
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint6/DebbyRig_TEST:joint2
+      1/DebbyRig_TEST:joint3 1
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint6/DebbyRig_TEST:joint2
+      1/DebbyRig_TEST:joint3 1/DebbyRig_TEST:joint4 1
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint6/DebbyRig_TEST:joint2
+      1/DebbyRig_TEST:joint3 1/DebbyRig_TEST:joint4 1/DebbyRig_TEST:joint5 1
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint7
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint7/DebbyRig_TEST:joint2
+      2
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint7/DebbyRig_TEST:joint2
+      2/DebbyRig_TEST:joint3 2
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint7/DebbyRig_TEST:joint2
+      2/DebbyRig_TEST:joint3 2/DebbyRig_TEST:joint4 2
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint7/DebbyRig_TEST:joint2
+      2/DebbyRig_TEST:joint3 2/DebbyRig_TEST:joint4 2/DebbyRig_TEST:joint5 2
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint8
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint8/DebbyRig_TEST:joint2
+      3
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint8/DebbyRig_TEST:joint2
+      3/DebbyRig_TEST:joint3 3
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint8/DebbyRig_TEST:joint2
+      3/DebbyRig_TEST:joint3 3/DebbyRig_TEST:joint4 3
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint8/DebbyRig_TEST:joint2
+      3/DebbyRig_TEST:joint3 3/DebbyRig_TEST:joint4 3/DebbyRig_TEST:joint5 3
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint9
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint9/DebbyRig_TEST:joint10
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint9/DebbyRig_TEST:joint10/DebbyRig_TEST:joint11
+    m_Weight: 1
+  - m_Path: DebbyRig_TEST:DebbyCharacter_Reference/DebbyRig_TEST:DebbyCharacter_Hips/DebbyRig_TEST:DebbyCharacter_Spine/DebbyRig_TEST:DebbyCharacter_Spine1/DebbyRig_TEST:DebbyCharacter_Spine2/DebbyRig_TEST:DebbyCharacter_RightShoulder/DebbyRig_TEST:DebbyCharacter_RightArm/DebbyRig_TEST:DebbyCharacter_RightForeArm/DebbyRig_TEST:joint37/DebbyRig_TEST:DebbyCharacter_RightHand/DebbyRig_TEST:joint9/DebbyRig_TEST:joint10/DebbyRig_TEST:joint11/DebbyRig_TEST:joint12
+    m_Weight: 1

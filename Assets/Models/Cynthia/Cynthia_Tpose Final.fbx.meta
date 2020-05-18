@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 1fd6212eca118784080f72dfff810080
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint1
+    100004: joint10
+    100006: joint11
+    100008: joint12
+    100010: joint13
+    100012: joint14
+    100014: joint15
+    100016: joint16
+    100018: joint17
+    100020: joint18
+    100022: joint19
+    100024: joint2
+    100026: joint2 1
+    100028: joint2 2
+    100030: joint2 3
+    100032: joint20
+    100034: joint21
+    100036: joint22
+    100038: joint23
+    100040: joint24
+    100042: joint25
+    100044: joint26
+    100046: joint27
+    100048: joint28
+    100050: joint29
+    100052: joint3
+    100054: joint3 1
+    100056: joint3 2
+    100058: joint3 3
+    100060: joint30
+    100062: joint31
+    100064: joint32
+    100066: joint33
+    100068: joint34
+    100070: joint35
+    100072: joint36
+    100074: joint37
+    100076: joint38
+    100078: joint4
+    100080: joint4 1
+    100082: joint4 2
+    100084: joint4 3
+    100086: joint5
+    100088: joint5 1
+    100090: joint5 2
+    100092: joint5 3
+    100094: joint6
+    100096: joint7
+    100098: joint8
+    100100: joint9
+    100102: polySurface8
+    100104: QuickRigCharacter_Head
+    100106: QuickRigCharacter_Hips
+    100108: QuickRigCharacter_LeftArm
+    100110: QuickRigCharacter_LeftFoot
+    100112: QuickRigCharacter_LeftForeArm
+    100114: QuickRigCharacter_LeftHand
+    100116: QuickRigCharacter_LeftLeg
+    100118: QuickRigCharacter_LeftShoulder
+    100120: QuickRigCharacter_LeftToeBase
+    100122: QuickRigCharacter_LeftUpLeg
+    100124: QuickRigCharacter_Neck
+    100126: QuickRigCharacter_Reference
+    100128: QuickRigCharacter_RightArm
+    100130: QuickRigCharacter_RightFoot
+    100132: QuickRigCharacter_RightForeArm
+    100134: QuickRigCharacter_RightHand
+    100136: QuickRigCharacter_RightLeg
+    100138: QuickRigCharacter_RightShoulder
+    100140: QuickRigCharacter_RightToeBase
+    100142: QuickRigCharacter_RightUpLeg
+    100144: QuickRigCharacter_Spine
+    100146: QuickRigCharacter_Spine1
+    100148: QuickRigCharacter_Spine2
+    400000: //RootNode
+    400002: joint1
+    400004: joint10
+    400006: joint11
+    400008: joint12
+    400010: joint13
+    400012: joint14
+    400014: joint15
+    400016: joint16
+    400018: joint17
+    400020: joint18
+    400022: joint19
+    400024: joint2
+    400026: joint2 1
+    400028: joint2 2
+    400030: joint2 3
+    400032: joint20
+    400034: joint21
+    400036: joint22
+    400038: joint23
+    400040: joint24
+    400042: joint25
+    400044: joint26
+    400046: joint27
+    400048: joint28
+    400050: joint29
+    400052: joint3
+    400054: joint3 1
+    400056: joint3 2
+    400058: joint3 3
+    400060: joint30
+    400062: joint31
+    400064: joint32
+    400066: joint33
+    400068: joint34
+    400070: joint35
+    400072: joint36
+    400074: joint37
+    400076: joint38
+    400078: joint4
+    400080: joint4 1
+    400082: joint4 2
+    400084: joint4 3
+    400086: joint5
+    400088: joint5 1
+    400090: joint5 2
+    400092: joint5 3
+    400094: joint6
+    400096: joint7
+    400098: joint8
+    400100: joint9
+    400102: polySurface8
+    400104: QuickRigCharacter_Head
+    400106: QuickRigCharacter_Hips
+    400108: QuickRigCharacter_LeftArm
+    400110: QuickRigCharacter_LeftFoot
+    400112: QuickRigCharacter_LeftForeArm
+    400114: QuickRigCharacter_LeftHand
+    400116: QuickRigCharacter_LeftLeg
+    400118: QuickRigCharacter_LeftShoulder
+    400120: QuickRigCharacter_LeftToeBase
+    400122: QuickRigCharacter_LeftUpLeg
+    400124: QuickRigCharacter_Neck
+    400126: QuickRigCharacter_Reference
+    400128: QuickRigCharacter_RightArm
+    400130: QuickRigCharacter_RightFoot
+    400132: QuickRigCharacter_RightForeArm
+    400134: QuickRigCharacter_RightHand
+    400136: QuickRigCharacter_RightLeg
+    400138: QuickRigCharacter_RightShoulder
+    400140: QuickRigCharacter_RightToeBase
+    400142: QuickRigCharacter_RightUpLeg
+    400144: QuickRigCharacter_Spine
+    400146: QuickRigCharacter_Spine1
+    400148: QuickRigCharacter_Spine2
+    2100000: initialShadingGroup1
+    4300000: polySurface8
+    9500000: //RootNode
+    13700000: polySurface8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 10
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

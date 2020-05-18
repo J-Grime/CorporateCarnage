@@ -1,0 +1,2318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1371975254385758372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 931888113026635079}
+  m_Layer: 10
+  m_Name: Weapon Holder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &931888113026635079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1371975254385758372}
+  m_LocalRotation: {x: 0.7234024, y: -0.043032013, z: 0.07590835, w: 0.68489075}
+  m_LocalPosition: {x: -0.12992601, y: 0.0016703976, z: -0.013595022}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262618}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262624}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222656}
+  m_LocalRotation: {x: 0.0000074978243, y: 0.00010227309, z: -0.09853895, w: 0.9951332}
+  m_LocalPosition: {x: -0.036663763, y: 0.0008761883, z: 0.013810286}
+  m_LocalScale: {x: 0.9999984, y: 1.0000011, z: 0.9999997}
+  m_Children:
+  - {fileID: 5931591357921262630}
+  m_Father: {fileID: 5931591357921262600}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262626}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222658}
+  m_LocalRotation: {x: 0.0000010048716, y: 0.0000016555374, z: 0.21504971, w: 0.9766031}
+  m_LocalPosition: {x: -0.012040851, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000025, y: 0.9999967, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262636}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222660
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262628}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262628
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222660}
+  m_LocalRotation: {x: -0.0000030929198, y: 0.0000004239241, z: 0.0000009592651, w: 1}
+  m_LocalPosition: {x: -0.008758628, y: 0, z: 0.000000007823109}
+  m_LocalScale: {x: 0.99999845, y: 1.000001, z: 0.9999996}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262630}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262630}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262630
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222662}
+  m_LocalRotation: {x: -0.000008173885, y: 0.034656234, z: 0.00014015361, w: 0.9993993}
+  m_LocalPosition: {x: -0.009228599, y: -0.00000004172325, z: 0.000000009126961}
+  m_LocalScale: {x: 0.99999845, y: 1.000001, z: 0.99999964}
+  m_Children:
+  - {fileID: 5931591357921262628}
+  m_Father: {fileID: 5931591357921262624}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262632}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222664}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0.01767051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262676}
+  m_Father: {fileID: 5931591357921262674}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222666
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262634}
+  - component: {fileID: 4735588886644618700}
+  - component: {fileID: 966476440703225716}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArm2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222666}
+  m_LocalRotation: {x: 0.020241216, y: -0.06911156, z: 0.0044457987, w: 0.99739367}
+  m_LocalPosition: {x: -0.092000686, y: -0.000000039115548, z: 0}
+  m_LocalScale: {x: 0.99999946, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 5931591357921262600}
+  m_Father: {fileID: 5931591357921262676}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &4735588886644618700
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222666}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.032900617
+  m_Height: 0.16450308
+  m_Direction: 0
+  m_Center: {x: -0.08225154, y: 0, z: 0}
+--- !u!114 &966476440703225716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 2
+--- !u!1 &5931591357921222668
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262636}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262636
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222668}
+  m_LocalRotation: {x: 0.009704086, y: -0.10499548, z: 0.053543255, w: 0.99298286}
+  m_LocalPosition: {x: -0.012774491, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000048, y: 0.9999945, z: 0.99999994}
+  m_Children:
+  - {fileID: 5931591357921262626}
+  m_Father: {fileID: 5931591357921262638}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262638}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222670}
+  m_LocalRotation: {x: 0.36138725, y: 0.41480905, z: 0.18859969, w: 0.81348807}
+  m_LocalPosition: {x: -0.009679273, y: -0.00000012516975, z: 0.013811931}
+  m_LocalScale: {x: 1.0000061, y: 0.9999943, z: 0.99999875}
+  m_Children:
+  - {fileID: 5931591357921262636}
+  m_Father: {fileID: 5931591357921262600}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262640}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262640
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222672}
+  m_LocalRotation: {x: -0.000003056507, y: 0.00000083355076, z: 0.052861076, w: 0.9986019}
+  m_LocalPosition: {x: -0.009914967, y: 0, z: 0.000000010430813}
+  m_LocalScale: {x: 0.9999985, y: 1.0000002, z: 1.0000004}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262642}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262642}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222674}
+  m_LocalRotation: {x: -0.0000030435467, y: 0.000000609322, z: -0.052859887, w: 0.998602}
+  m_LocalPosition: {x: -0.011098572, y: 0.00000004172325, z: 0.000000019557774}
+  m_LocalScale: {x: 0.9999983, y: 1.0000006, z: 1.0000002}
+  m_Children:
+  - {fileID: 5931591357921262640}
+  m_Father: {fileID: 5931591357921262652}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262644}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit52
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262644
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222676}
+  m_LocalRotation: {x: 0.004250641, y: -0.012893798, z: -0.037122402, w: 0.9992185}
+  m_LocalPosition: {x: -0.007087268, y: -0.0000000834465, z: 0.000000039115548}
+  m_LocalScale: {x: 0.99999785, y: 1.0000012, z: 1.0000001}
+  m_Children:
+  - {fileID: 5931591357921262602}
+  m_Father: {fileID: 5931591357921262646}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222678
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262646}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit51
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222678}
+  m_LocalRotation: {x: -0.029399784, y: -0.08317236, z: 0.08591971, w: 0.99238896}
+  m_LocalPosition: {x: -0.032219652, y: -0.0024039685, z: -0.012340658}
+  m_LocalScale: {x: 0.99999887, y: 1.0000005, z: 0.9999998}
+  m_Children:
+  - {fileID: 5931591357921262644}
+  m_Father: {fileID: 5931591357921262600}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262648}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262648
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222680}
+  m_LocalRotation: {x: -0.0000060715925, y: -0.00013298113, z: 0.0001097762, w: 1}
+  m_LocalPosition: {x: -0.013757386, y: -0.0000000834465, z: 0.00000006128102}
+  m_LocalScale: {x: 0.9999987, y: 1.0000004, z: 1.0000001}
+  m_Children:
+  - {fileID: 5931591357921262654}
+  m_Father: {fileID: 5931591357921262650}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262650}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262650
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222682}
+  m_LocalRotation: {x: -0.0000025059533, y: -0.055842333, z: 0.0000014418367, w: 0.9984396}
+  m_LocalPosition: {x: -0.034998506, y: 0.001431191, z: 0.0046040276}
+  m_LocalScale: {x: 0.9999987, y: 1.0000004, z: 1.0000001}
+  m_Children:
+  - {fileID: 5931591357921262648}
+  m_Father: {fileID: 5931591357921262600}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262652}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222684}
+  m_LocalRotation: {x: -0.000002912756, y: -0.067007475, z: 0.00000041670864, w: 0.9977525}
+  m_LocalPosition: {x: -0.03226415, y: -0.0000000834465, z: -0.004603908}
+  m_LocalScale: {x: 0.99999857, y: 1.0000004, z: 1.0000004}
+  m_Children:
+  - {fileID: 5931591357921262642}
+  m_Father: {fileID: 5931591357921262600}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262654}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262654
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222686}
+  m_LocalRotation: {x: 0.0000014886698, y: 0.0001375126, z: -0.000104621395, w: 1}
+  m_LocalPosition: {x: -0.01016854, y: -0.00000004172325, z: 0.000000046938656}
+  m_LocalScale: {x: 0.9999987, y: 1.0000004, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262648}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222704
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262672}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigHub002Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222704}
+  m_LocalRotation: {x: -1.9881262e-20, y: -2.706038e-13, z: -5.379945e-33, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262678}
+  m_Father: {fileID: 5931591357921262674}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222706
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262674}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigHub002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262674
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222706}
+  m_LocalRotation: {x: -7.105417e-15, y: -8.707262e-14, z: -7.1054274e-15, w: 1}
+  m_LocalPosition: {x: -0.042409223, y: 0.0000000013038516, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262672}
+  - {fileID: 5931591357921262632}
+  - {fileID: 5931591357921262616}
+  m_Father: {fileID: 5931591357921262796}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262676}
+  - component: {fileID: 7297293656520198483}
+  - component: {fileID: 2481080968672594578}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222708}
+  m_LocalRotation: {x: 0.02010379, y: 0.052326914, z: 0.03433024, w: 0.99783725}
+  m_LocalPosition: {x: -0.07068204, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262634}
+  m_Father: {fileID: 5931591357921262632}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &7297293656520198483
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222708}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.023000173
+  m_Height: 0.09200069
+  m_Direction: 0
+  m_Center: {x: -0.046000347, y: 0, z: 0}
+--- !u!114 &2481080968672594578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 2
+--- !u!1 &5931591357921222710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262678}
+  - component: {fileID: 5712075584505330576}
+  - component: {fileID: 3195495020271653496}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigHub002Bone001Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222710}
+  m_LocalRotation: {x: -1.9881262e-20, y: -2.706038e-13, z: -5.379945e-33, w: 1}
+  m_LocalPosition: {x: -0.048911624, y: 0.011594862, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262672}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &5712075584505330576
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222710}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.06
+  m_Center: {x: -0.04, y: 0, z: 0}
+--- !u!114 &3195495020271653496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 0
+--- !u!1 &5931591357921222716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262684}
+  - component: {fileID: 3514903974782441108}
+  - component: {fileID: 3380907735704120966}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigHub001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262684
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222716}
+  m_LocalRotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+  m_LocalPosition: {x: 0.0000000052944946, y: 0.9000661, z: 0.09605076}
+  m_LocalScale: {x: 2.54, y: 2.54, z: 2.54}
+  m_Children:
+  - {fileID: 5931591357921262606}
+  - {fileID: 5931591357921262846}
+  - {fileID: 5931591357921262836}
+  m_Father: {fileID: 5931591357921263082}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3514903974782441108
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222716}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.16963692, y: 0.10602307, z: 0.17670517}
+  m_Center: {x: -0.08481846, y: 0.00000009313226, z: 0}
+--- !u!114 &3380907735704120966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 1
+--- !u!1 &5931591357921222818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262786}
+  - component: {fileID: 5931591357918047434}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:charqacter_lp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262786
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222818}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.88010675, z: 9.836978e-11}
+  m_LocalScale: {x: 2.54, y: 2.54, z: 2.54}
+  m_Children: []
+  m_Father: {fileID: 5931591357921263082}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5931591357918047434
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222818}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 5212da09743315a42aede59107e729e6, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 1
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: ed8c500cad3179444a5f048da383701a, type: 3}
+  m_Bones:
+  - {fileID: 5931591357921262674}
+  - {fileID: 5931591357921262672}
+  - {fileID: 5931591357921262678}
+  - {fileID: 5931591357921262796}
+  - {fileID: 5931591357921262616}
+  - {fileID: 5931591357921262676}
+  - {fileID: 5931591357921262596}
+  - {fileID: 5931591357921262798}
+  - {fileID: 5931591357921262792}
+  - {fileID: 5931591357921262632}
+  - {fileID: 5931591357921262836}
+  - {fileID: 5931591357921262794}
+  - {fileID: 5931591357921262684}
+  - {fileID: 5931591357921262618}
+  - {fileID: 5931591357921262840}
+  - {fileID: 5931591357921262622}
+  - {fileID: 5931591357921262620}
+  - {fileID: 5931591357921262610}
+  - {fileID: 5931591357921262826}
+  - {fileID: 5931591357921262608}
+  - {fileID: 5931591357921262614}
+  - {fileID: 5931591357921262828}
+  - {fileID: 5931591357921262822}
+  - {fileID: 5931591357921262820}
+  - {fileID: 5931591357921262818}
+  - {fileID: 5931591357921262824}
+  - {fileID: 5931591357921262612}
+  - {fileID: 5931591357921262830}
+  - {fileID: 5931591357921262816}
+  - {fileID: 5931591357921262842}
+  - {fileID: 5931591357921262634}
+  - {fileID: 5931591357921262600}
+  - {fileID: 5931591357921262638}
+  - {fileID: 5931591357921262636}
+  - {fileID: 5931591357921262626}
+  - {fileID: 5931591357921262650}
+  - {fileID: 5931591357921262624}
+  - {fileID: 5931591357921262630}
+  - {fileID: 5931591357921262652}
+  - {fileID: 5931591357921262646}
+  - {fileID: 5931591357921262644}
+  - {fileID: 5931591357921262642}
+  - {fileID: 5931591357921262648}
+  - {fileID: 5931591357921262628}
+  - {fileID: 5931591357921262654}
+  - {fileID: 5931591357921262640}
+  - {fileID: 5931591357921262602}
+  - {fileID: 5931591357921262846}
+  - {fileID: 5931591357921262606}
+  - {fileID: 5931591357921262604}
+  - {fileID: 5931591357921262594}
+  - {fileID: 5931591357921262592}
+  - {fileID: 5931591357921262598}
+  - {fileID: 5931591357921262844}
+  - {fileID: 5931591357921262834}
+  - {fileID: 5931591357921262832}
+  - {fileID: 5931591357921262838}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5931591357921262684}
+  m_AABB:
+    m_Center: {x: 0.021936744, y: 0.0029262789, z: 0.00068959594}
+    m_Extent: {x: 0.36499065, y: 0.07311872, z: 0.3577822}
+  m_DirtyAABB: 0
+--- !u!1 &5931591357921222824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262792}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigSpine3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262792
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222824}
+  m_LocalRotation: {x: -2.0039527e-21, y: 1.2300172e-14, z: 2.4648963e-35, w: 1}
+  m_LocalPosition: {x: -0.042409223, y: 0.0000000013038516, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262798}
+  m_Father: {fileID: 5931591357921262794}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262794}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigSpine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262794
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222826}
+  m_LocalRotation: {x: -7.1054274e-15, y: 8.47033e-22, z: -7.1054274e-15, w: 1}
+  m_LocalPosition: {x: -0.042409223, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262792}
+  m_Father: {fileID: 5931591357921262836}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222828
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262796}
+  - component: {fileID: 2683778929676428017}
+  - component: {fileID: 7715433716500251104}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigSpine5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222828}
+  m_LocalRotation: {x: -6.011858e-21, y: 3.6900516e-14, z: 2.2184067e-34, w: 1}
+  m_LocalPosition: {x: -0.042409223, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262674}
+  m_Father: {fileID: 5931591357921262798}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2683778929676428017
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222828}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.042409226, y: 0.10602306, z: 0.17670517}
+  m_Center: {x: -0.021204636, y: 0.00000009313226, z: 0}
+--- !u!114 &7715433716500251104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 1
+--- !u!1 &5931591357921222830
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262798}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigSpine4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262798
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222830}
+  m_LocalRotation: {x: 2.0039527e-21, y: -1.2300172e-14, z: 2.4648963e-35, w: 1}
+  m_LocalPosition: {x: -0.042409223, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262796}
+  m_Father: {fileID: 5931591357921262792}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222848
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262816}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222848}
+  m_LocalRotation: {x: -0.0000024855926, y: 0.0000049181062, z: 0.05286128, w: 0.99860185}
+  m_LocalPosition: {x: -0.009915092, y: -0.00000004172325, z: 0.000000092573465}
+  m_LocalScale: {x: 1.0000049, y: 0.999998, z: 0.99999714}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262818}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262818}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262818
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222850}
+  m_LocalRotation: {x: -0.0000025655208, y: 0.000005129731, z: -0.052859195, w: 0.998602}
+  m_LocalPosition: {x: -0.011098656, y: -0.00000004172325, z: 0.00000011604279}
+  m_LocalScale: {x: 1.0000044, y: 0.9999985, z: 0.99999714}
+  m_Children:
+  - {fileID: 5931591357921262816}
+  m_Father: {fileID: 5931591357921262828}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262820}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit52
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222852}
+  m_LocalRotation: {x: -0.004254145, y: 0.012902784, z: -0.037126373, w: 0.9992182}
+  m_LocalPosition: {x: -0.0070873094, y: 0.00000004172325, z: 0.00000009387731}
+  m_LocalScale: {x: 1.000007, y: 0.99999696, z: 0.99999607}
+  m_Children:
+  - {fileID: 5931591357921262842}
+  m_Father: {fileID: 5931591357921262822}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222854
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262822}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit51
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222854}
+  m_LocalRotation: {x: 0.029395951, y: 0.08318006, z: 0.085917555, w: 0.9923886}
+  m_LocalPosition: {x: -0.03221986, y: -0.0024040102, z: 0.012341102}
+  m_LocalScale: {x: 1.000006, y: 0.9999975, z: 0.9999968}
+  m_Children:
+  - {fileID: 5931591357921262820}
+  m_Father: {fileID: 5931591357921262840}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222856
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262824}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222856}
+  m_LocalRotation: {x: 0.0000022154697, y: 0.00014184261, z: 0.00010611784, w: 1}
+  m_LocalPosition: {x: -0.013757512, y: 0.0000000834465, z: 0.00000017732381}
+  m_LocalScale: {x: 1.0000044, y: 0.9999981, z: 0.9999976}
+  m_Children:
+  - {fileID: 5931591357921262830}
+  m_Father: {fileID: 5931591357921262826}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262826}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222858}
+  m_LocalRotation: {x: -0.0000017368637, y: 0.055849798, z: -0.00000007447534, w: 0.9984392}
+  m_LocalPosition: {x: -0.03499859, y: 0.0014312327, z: -0.004603594}
+  m_LocalScale: {x: 1.0000045, y: 0.9999981, z: 0.9999977}
+  m_Children:
+  - {fileID: 5931591357921262824}
+  m_Father: {fileID: 5931591357921262840}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262828}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262828
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222860}
+  m_LocalRotation: {x: -0.0000023552504, y: 0.06701346, z: 0.0000010318666, w: 0.9977521}
+  m_LocalPosition: {x: -0.032264277, y: -0.0000000834465, z: 0.0046043256}
+  m_LocalScale: {x: 1.000005, y: 0.99999815, z: 0.9999971}
+  m_Children:
+  - {fileID: 5931591357921262818}
+  m_Father: {fileID: 5931591357921262840}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222862
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262830}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262830
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222862}
+  m_LocalRotation: {x: -0.0000053466943, y: -0.00012865933, z: -0.000108279506, w: 1}
+  m_LocalPosition: {x: -0.010168624, y: 0.00000004172325, z: 0.00000013299287}
+  m_LocalScale: {x: 1.0000043, y: 0.99999815, z: 0.99999756}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262824}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262832}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262832
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222864}
+  m_LocalRotation: {x: -0.028205238, y: -0.045381702, z: -0.5011217, w: 0.86372566}
+  m_LocalPosition: {x: -0.030633805, y: 0.0020295794, z: 0.0027063526}
+  m_LocalScale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+  m_Children:
+  - {fileID: 5931591357921262838}
+  m_Father: {fileID: 5931591357921262834}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262834}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222866}
+  m_LocalRotation: {x: 0.122297324, y: -0.0017381079, z: -0.26870388, w: 0.95542586}
+  m_LocalPosition: {x: -0.15648939, y: 0, z: 0.0000000052154063}
+  m_LocalScale: {x: 0.99791193, y: 0.99925244, z: 0.9999864}
+  m_Children:
+  - {fileID: 5931591357921262832}
+  m_Father: {fileID: 5931591357921262844}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262836}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigSpine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222868}
+  m_LocalRotation: {x: 1.4210856e-14, y: 2.5571745e-14, z: 1.4210855e-14, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262794}
+  m_Father: {fileID: 5931591357921262684}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262838}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222870}
+  m_LocalRotation: {x: -0.0005763097, y: -0.0250825, z: -0.010069834, w: 0.9996345}
+  m_LocalPosition: {x: -0.03833192, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262832}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262840}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262840
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222872}
+  m_LocalRotation: {x: 0.72340226, y: -0.043032043, z: 0.07590836, w: 0.68489075}
+  m_LocalPosition: {x: -0.10598603, y: -0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262622}
+  - {fileID: 5931591357921262608}
+  - {fileID: 5931591357921262826}
+  - {fileID: 5931591357921262828}
+  - {fileID: 5931591357921262822}
+  m_Father: {fileID: 5931591357921262618}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262842}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit53
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222874}
+  m_LocalRotation: {x: -0.008387916, y: 0.031445496, z: 0.04669658, w: 0.9983788}
+  m_LocalPosition: {x: -0.0072621405, y: 0, z: 0.00000009909272}
+  m_LocalScale: {x: 1.0000079, y: 0.9999976, z: 0.9999944}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262820}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222876
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262844}
+  - component: {fileID: 539810541767614031}
+  - component: {fileID: 1616308896358189113}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262844
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222876}
+  m_LocalRotation: {x: -0.0017652689, y: 0.000000242602, z: 0.000002906159, w: 0.99999845}
+  m_LocalPosition: {x: -0.15957302, y: 0.00000019036233, z: -0.00000007301569}
+  m_LocalScale: {x: 1.0000001, y: 0.99999976, z: 0.9999997}
+  m_Children:
+  - {fileID: 5931591357921262834}
+  m_Father: {fileID: 5931591357921262846}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &539810541767614031
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222876}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.045447785
+  m_Height: 0.18179114
+  m_Direction: 0
+  m_Center: {x: -0.09089557, y: 0, z: 0}
+--- !u!114 &1616308896358189113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 3
+--- !u!1 &5931591357921222878
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262846}
+  - component: {fileID: 5119920565531214850}
+  - component: {fileID: 9040716162435012178}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262846
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222878}
+  m_LocalRotation: {x: 0.027365435, y: 0.99919206, z: -0.009729691, w: -0.02778076}
+  m_LocalPosition: {x: -0, y: 0, z: -0.03534102}
+  m_LocalScale: {x: 1.0028592, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262844}
+  m_Father: {fileID: 5931591357921262684}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &5119920565531214850
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222878}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.047871925
+  m_Height: 0.15957308
+  m_Direction: 0
+  m_Center: {x: -0.07978654, y: 0, z: 0}
+--- !u!114 &9040716162435012178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 3
+--- !u!1 &5931591357921222880
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262592}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262592
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222880}
+  m_LocalRotation: {x: 0.02849887, y: 0.044905726, z: -0.5016231, w: 0.8634498}
+  m_LocalPosition: {x: -0.030633805, y: 0.0020295794, z: -0.0027063526}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 5931591357921262598}
+  m_Father: {fileID: 5931591357921262594}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222882
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262594}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222882}
+  m_LocalRotation: {x: -0.1221902, y: 0.0024438344, z: -0.2680807, w: 0.9556131}
+  m_LocalPosition: {x: -0.1564894, y: 0, z: 0}
+  m_LocalScale: {x: 0.9979066, y: 0.99925756, z: 0.9999861}
+  m_Children:
+  - {fileID: 5931591357921262592}
+  m_Father: {fileID: 5931591357921262604}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222884
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262596}
+  - component: {fileID: 755763980823603855}
+  - component: {fileID: 1536245994736713077}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262596
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222884}
+  m_LocalRotation: {x: -0.0388184, y: -0.053098373, z: 0.028721845, w: 0.997421}
+  m_LocalPosition: {x: -0.07068204, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262618}
+  m_Father: {fileID: 5931591357921262616}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &755763980823603855
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222884}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.022571027
+  m_Height: 0.09028411
+  m_Direction: 0
+  m_Center: {x: -0.045142055, y: 0, z: 0}
+--- !u!114 &1536245994736713077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 2
+--- !u!1 &5931591357921222886
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262598}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262598
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222886}
+  m_LocalRotation: {x: 0.0005763171, y: 0.025082575, z: -0.01006981, w: 0.9996345}
+  m_LocalPosition: {x: -0.038331922, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262592}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222888
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262600}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222888}
+  m_LocalRotation: {x: -0.7285666, y: 0.06862487, z: 0.04998032, w: 0.6796935}
+  m_LocalPosition: {x: -0.106374994, y: -0.00000004172325, z: -0.00000004172325}
+  m_LocalScale: {x: 0.99999905, y: 1.0000005, z: 0.99999976}
+  m_Children:
+  - {fileID: 5931591357921262638}
+  - {fileID: 5931591357921262624}
+  - {fileID: 5931591357921262650}
+  - {fileID: 5931591357921262652}
+  - {fileID: 5931591357921262646}
+  m_Father: {fileID: 5931591357921262634}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222890
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262602}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLArmDigit53
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222890}
+  m_LocalRotation: {x: 0.008384521, y: -0.031436846, z: 0.046700757, w: 0.99837893}
+  m_LocalPosition: {x: -0.0072620986, y: -0.00000004172325, z: 0.000000031292437}
+  m_LocalScale: {x: 0.99999815, y: 1.0000001, z: 1.0000008}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262644}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262604}
+  - component: {fileID: 891031672594642097}
+  - component: {fileID: 2990912777244522363}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222892}
+  m_LocalRotation: {x: 0.001764728, y: -0.00014294707, z: -0.000102398255, w: 0.99999845}
+  m_LocalPosition: {x: -0.15957302, y: 0.00000019297003, z: 0.00000007562339}
+  m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 5931591357921262594}
+  m_Father: {fileID: 5931591357921262606}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &891031672594642097
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222892}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.045454226
+  m_Height: 0.1818169
+  m_Direction: 0
+  m_Center: {x: -0.09090845, y: 0, z: 0}
+--- !u!114 &2990912777244522363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 3
+--- !u!1 &5931591357921222894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262606}
+  - component: {fileID: 27976348822128018}
+  - component: {fileID: 5717144090101027708}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigLLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222894}
+  m_LocalRotation: {x: 0.027366629, y: 0.999192, z: 0.009729793, w: 0.02778064}
+  m_LocalPosition: {x: -0, y: 0, z: 0.035341024}
+  m_LocalScale: {x: 1.0028594, y: 1.0000002, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262604}
+  m_Father: {fileID: 5931591357921262684}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &27976348822128018
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222894}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.047871914
+  m_Height: 0.15957303
+  m_Direction: 0
+  m_Center: {x: -0.07978652, y: 0, z: 0}
+--- !u!114 &5717144090101027708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 3
+--- !u!1 &5931591357921222896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262608}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262608
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222896}
+  m_LocalRotation: {x: -0.000013292856, y: -0.000096395284, z: -0.098538816, w: 0.9951332}
+  m_LocalPosition: {x: -0.03666368, y: 0.0008762717, z: -0.013809826}
+  m_LocalScale: {x: 1.0000015, y: 0.9999988, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262614}
+  m_Father: {fileID: 5931591357921262840}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262610}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262610
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222898}
+  m_LocalRotation: {x: -0.0000020567402, y: 0.0000033463668, z: 0.21505691, w: 0.97660154}
+  m_LocalPosition: {x: -0.012040746, y: -0.0000000834465, z: 0}
+  m_LocalScale: {x: 1.0000017, y: 0.9999955, z: 1.000003}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262620}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262612}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262612
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222900}
+  m_LocalRotation: {x: -0.000003591188, y: 0.0000049169143, z: 0.0000007376251, w: 1}
+  m_LocalPosition: {x: -0.008758628, y: 0, z: 0.00000008605421}
+  m_LocalScale: {x: 1.0000001, y: 0.9999987, z: 1.0000014}
+  m_Children: []
+  m_Father: {fileID: 5931591357921262614}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222902
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262614}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262614
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222902}
+  m_LocalRotation: {x: 0.0000017923068, y: -0.034650896, z: 0.0001396767, w: 0.9993995}
+  m_LocalPosition: {x: -0.00922864, y: 0.00000004172325, z: 0.000000092573465}
+  m_LocalScale: {x: 1.0000001, y: 0.9999988, z: 1.0000014}
+  m_Children:
+  - {fileID: 5931591357921262612}
+  m_Father: {fileID: 5931591357921262608}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222904
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262616}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222904}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: -0.01767051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262596}
+  m_Father: {fileID: 5931591357921262674}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262618}
+  - component: {fileID: 5508129968291158443}
+  - component: {fileID: 154354112870744800}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArm2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262618
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222906}
+  m_LocalRotation: {x: 0.0067202677, y: 0.07011019, z: -0.0047798734, w: 0.9975052}
+  m_LocalPosition: {x: -0.09028404, y: -0.0000009544193, z: 0.00000029206277}
+  m_LocalScale: {x: 1.0000005, y: 1.0000004, z: 0.9999993}
+  m_Children:
+  - {fileID: 5931591357921262840}
+  - {fileID: 931888113026635079}
+  m_Father: {fileID: 5931591357921262596}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &5508129968291158443
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222906}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.032840468
+  m_Height: 0.16420233
+  m_Direction: 0
+  m_Center: {x: -0.082101166, y: 0, z: 0}
+--- !u!114 &154354112870744800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4cb2d313ebca54bbd3b99f14daef0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bodypart: 2
+--- !u!1 &5931591357921222908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262620}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262620
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222908}
+  m_LocalRotation: {x: -0.009708091, y: 0.10499912, z: 0.053547937, w: 0.9929822}
+  m_LocalPosition: {x: -0.012774345, y: -0.0000000834465, z: 0.00000004172325}
+  m_LocalScale: {x: 0.9999947, y: 1.0000024, z: 1.000003}
+  m_Children:
+  - {fileID: 5931591357921262610}
+  m_Father: {fileID: 5931591357921262622}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921222910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921262622}
+  m_Layer: 10
+  m_Name: Vita_Character1RIG:CATRigRArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921262622
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921222910}
+  m_LocalRotation: {x: -0.3696748, y: -0.37697807, z: 0.17179197, w: 0.8316945}
+  m_LocalPosition: {x: -0.009679127, y: 0, z: -0.013811807}
+  m_LocalScale: {x: 0.9999913, y: 1.0000037, z: 1.0000052}
+  m_Children:
+  - {fileID: 5931591357921262620}
+  m_Father: {fileID: 5931591357921262840}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5931591357921223114
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5931591357921263082}
+  - component: {fileID: 5931591357913797130}
+  - component: {fileID: 5931591357921223109}
+  m_Layer: 10
+  m_Name: Chang Animated
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5931591357921263082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921223114}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5931591357921262684}
+  - {fileID: 5931591357921262786}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &5931591357913797130
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921223114}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: ed8c500cad3179444a5f048da383701a, type: 3}
+  m_Controller: {fileID: 9100000, guid: 57fdb093948cd5a43b31ef7e4251157e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &5931591357921223109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931591357921223114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2019d5bf8d8da44f9e54c84093e4c50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _weaponAttachPoint: {fileID: 931888113026635079}

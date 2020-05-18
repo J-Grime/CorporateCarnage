@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 3648c36d1ebddc545a51e26634488ac2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DebbyRig_TEST:Debby_Combined:polySurface28
+    100004: DebbyRig_TEST:DebbyCharacter_Head
+    100006: DebbyRig_TEST:DebbyCharacter_Hips
+    100008: DebbyRig_TEST:DebbyCharacter_LeftArm
+    100010: DebbyRig_TEST:DebbyCharacter_LeftFoot
+    100012: DebbyRig_TEST:DebbyCharacter_LeftForeArm
+    100014: DebbyRig_TEST:DebbyCharacter_LeftHand
+    100016: DebbyRig_TEST:DebbyCharacter_LeftLeg
+    100018: DebbyRig_TEST:DebbyCharacter_LeftShoulder
+    100020: DebbyRig_TEST:DebbyCharacter_LeftToeBase
+    100022: DebbyRig_TEST:DebbyCharacter_LeftUpLeg
+    100024: DebbyRig_TEST:DebbyCharacter_Neck
+    100026: DebbyRig_TEST:DebbyCharacter_Reference
+    100028: DebbyRig_TEST:DebbyCharacter_RightArm
+    100030: DebbyRig_TEST:DebbyCharacter_RightFoot
+    100032: DebbyRig_TEST:DebbyCharacter_RightForeArm
+    100034: DebbyRig_TEST:DebbyCharacter_RightHand
+    100036: DebbyRig_TEST:DebbyCharacter_RightLeg
+    100038: DebbyRig_TEST:DebbyCharacter_RightShoulder
+    100040: DebbyRig_TEST:DebbyCharacter_RightToeBase
+    100042: DebbyRig_TEST:DebbyCharacter_RightUpLeg
+    100044: DebbyRig_TEST:DebbyCharacter_Spine
+    100046: DebbyRig_TEST:DebbyCharacter_Spine1
+    100048: DebbyRig_TEST:DebbyCharacter_Spine2
+    100050: DebbyRig_TEST:joint1
+    100052: DebbyRig_TEST:joint10
+    100054: DebbyRig_TEST:joint11
+    100056: DebbyRig_TEST:joint12
+    100058: DebbyRig_TEST:joint13
+    100060: DebbyRig_TEST:joint14
+    100062: DebbyRig_TEST:joint15
+    100064: DebbyRig_TEST:joint16
+    100066: DebbyRig_TEST:joint17
+    100068: DebbyRig_TEST:joint18
+    100070: DebbyRig_TEST:joint19
+    100072: DebbyRig_TEST:joint2
+    100074: DebbyRig_TEST:joint2 1
+    100076: DebbyRig_TEST:joint2 2
+    100078: DebbyRig_TEST:joint2 3
+    100080: DebbyRig_TEST:joint20
+    100082: DebbyRig_TEST:joint21
+    100084: DebbyRig_TEST:joint22
+    100086: DebbyRig_TEST:joint23
+    100088: DebbyRig_TEST:joint24
+    100090: DebbyRig_TEST:joint25
+    100092: DebbyRig_TEST:joint26
+    100094: DebbyRig_TEST:joint27
+    100096: DebbyRig_TEST:joint28
+    100098: DebbyRig_TEST:joint29
+    100100: DebbyRig_TEST:joint3
+    100102: DebbyRig_TEST:joint3 1
+    100104: DebbyRig_TEST:joint3 2
+    100106: DebbyRig_TEST:joint3 3
+    100108: DebbyRig_TEST:joint30
+    100110: DebbyRig_TEST:joint31
+    100112: DebbyRig_TEST:joint32
+    100114: DebbyRig_TEST:joint33
+    100116: DebbyRig_TEST:joint34
+    100118: DebbyRig_TEST:joint35
+    100120: DebbyRig_TEST:joint36
+    100122: DebbyRig_TEST:joint37
+    100124: DebbyRig_TEST:joint38
+    100126: DebbyRig_TEST:joint4
+    100128: DebbyRig_TEST:joint4 1
+    100130: DebbyRig_TEST:joint4 2
+    100132: DebbyRig_TEST:joint4 3
+    100134: DebbyRig_TEST:joint5
+    100136: DebbyRig_TEST:joint5 1
+    100138: DebbyRig_TEST:joint5 2
+    100140: DebbyRig_TEST:joint5 3
+    100142: DebbyRig_TEST:joint6
+    100144: DebbyRig_TEST:joint7
+    100146: DebbyRig_TEST:joint8
+    100148: DebbyRig_TEST:joint9
+    100150: Character1_Ctrl_ChestEndEffector
+    100152: Character1_Ctrl_ChestOriginEffector
+    100154: Character1_Ctrl_Head
+    100156: Character1_Ctrl_HeadEffector
+    100158: Character1_Ctrl_Hips
+    100160: Character1_Ctrl_HipsEffector
+    100162: Character1_Ctrl_LeafLeftForeArmRoll1
+    100164: Character1_Ctrl_LeafRightForeArmRoll1
+    100166: Character1_Ctrl_LeftAnkleEffector
+    100168: Character1_Ctrl_LeftArm
+    100170: Character1_Ctrl_LeftElbowEffector
+    100172: Character1_Ctrl_LeftFoot
+    100174: Character1_Ctrl_LeftFootEffector
+    100176: Character1_Ctrl_LeftForeArm
+    100178: Character1_Ctrl_LeftHand
+    100180: Character1_Ctrl_LeftHandIndex1
+    100182: Character1_Ctrl_LeftHandIndex2
+    100184: Character1_Ctrl_LeftHandIndex3
+    100186: Character1_Ctrl_LeftHandIndex4
+    100188: Character1_Ctrl_LeftHandIndexEffector
+    100190: Character1_Ctrl_LeftHandMiddle1
+    100192: Character1_Ctrl_LeftHandMiddle2
+    100194: Character1_Ctrl_LeftHandMiddle3
+    100196: Character1_Ctrl_LeftHandMiddle4
+    100198: Character1_Ctrl_LeftHandMiddleEffector
+    100200: Character1_Ctrl_LeftHandPinky1
+    100202: Character1_Ctrl_LeftHandPinky2
+    100204: Character1_Ctrl_LeftHandPinky3
+    100206: Character1_Ctrl_LeftHandPinky4
+    100208: Character1_Ctrl_LeftHandPinkyEffector
+    100210: Character1_Ctrl_LeftHandRing1
+    100212: Character1_Ctrl_LeftHandRing2
+    100214: Character1_Ctrl_LeftHandRing3
+    100216: Character1_Ctrl_LeftHandRing4
+    100218: Character1_Ctrl_LeftHandRingEffector
+    100220: Character1_Ctrl_LeftHandThumb1
+    100222: Character1_Ctrl_LeftHandThumb2
+    100224: Character1_Ctrl_LeftHandThumb3
+    100226: Character1_Ctrl_LeftHandThumb4
+    100228: Character1_Ctrl_LeftHandThumbEffector
+    100230: Character1_Ctrl_LeftHipEffector
+    100232: Character1_Ctrl_LeftInHandIndex
+    100234: Character1_Ctrl_LeftInHandMiddle
+    100236: Character1_Ctrl_LeftInHandPinky
+    100238: Character1_Ctrl_LeftInHandRing
+    100240: Character1_Ctrl_LeftKneeEffector
+    100242: Character1_Ctrl_LeftLeg
+    100244: Character1_Ctrl_LeftShoulder
+    100246: Character1_Ctrl_LeftShoulderEffector
+    100248: Character1_Ctrl_LeftToeBase
+    100250: Character1_Ctrl_LeftUpLeg
+    100252: Character1_Ctrl_LeftWristEffector
+    100254: Character1_Ctrl_Neck
+    100256: Character1_Ctrl_Reference
+    100258: Character1_Ctrl_RightAnkleEffector
+    100260: Character1_Ctrl_RightArm
+    100262: Character1_Ctrl_RightElbowEffector
+    100264: Character1_Ctrl_RightFoot
+    100266: Character1_Ctrl_RightFootEffector
+    100268: Character1_Ctrl_RightForeArm
+    100270: Character1_Ctrl_RightHand
+    100272: Character1_Ctrl_RightHandIndex1
+    100274: Character1_Ctrl_RightHandIndex2
+    100276: Character1_Ctrl_RightHandIndex3
+    100278: Character1_Ctrl_RightHandIndex4
+    100280: Character1_Ctrl_RightHandIndexEffector
+    100282: Character1_Ctrl_RightHandMiddle1
+    100284: Character1_Ctrl_RightHandMiddle2
+    100286: Character1_Ctrl_RightHandMiddle3
+    100288: Character1_Ctrl_RightHandMiddle4
+    100290: Character1_Ctrl_RightHandMiddleEffector
+    100292: Character1_Ctrl_RightHandPinky1
+    100294: Character1_Ctrl_RightHandPinky2
+    100296: Character1_Ctrl_RightHandPinky3
+    100298: Character1_Ctrl_RightHandPinky4
+    100300: Character1_Ctrl_RightHandPinkyEffector
+    100302: Character1_Ctrl_RightHandRing1
+    100304: Character1_Ctrl_RightHandRing2
+    100306: Character1_Ctrl_RightHandRing3
+    100308: Character1_Ctrl_RightHandRing4
+    100310: Character1_Ctrl_RightHandRingEffector
+    100312: Character1_Ctrl_RightHandThumb1
+    100314: Character1_Ctrl_RightHandThumb2
+    100316: Character1_Ctrl_RightHandThumb3
+    100318: Character1_Ctrl_RightHandThumb4
+    100320: Character1_Ctrl_RightHandThumbEffector
+    100322: Character1_Ctrl_RightHipEffector
+    100324: Character1_Ctrl_RightInHandIndex
+    100326: Character1_Ctrl_RightInHandMiddle
+    100328: Character1_Ctrl_RightInHandPinky
+    100330: Character1_Ctrl_RightInHandRing
+    100332: Character1_Ctrl_RightKneeEffector
+    100334: Character1_Ctrl_RightLeg
+    100336: Character1_Ctrl_RightShoulder
+    100338: Character1_Ctrl_RightShoulderEffector
+    100340: Character1_Ctrl_RightToeBase
+    100342: Character1_Ctrl_RightUpLeg
+    100344: Character1_Ctrl_RightWristEffector
+    100346: Character1_Ctrl_Spine
+    100348: Character1_Ctrl_Spine1
+    100350: Character1_Ctrl_Spine2
+    100352: Debby_Combined:polySurface28
+    100354: DebbyCharacter_Head
+    100356: DebbyCharacter_Hips
+    100358: DebbyCharacter_LeftArm
+    100360: DebbyCharacter_LeftFoot
+    100362: DebbyCharacter_LeftForeArm
+    100364: DebbyCharacter_LeftHand
+    100366: DebbyCharacter_LeftLeg
+    100368: DebbyCharacter_LeftShoulder
+    100370: DebbyCharacter_LeftToeBase
+    100372: DebbyCharacter_LeftUpLeg
+    100374: DebbyCharacter_Neck
+    100376: DebbyCharacter_Reference
+    100378: DebbyCharacter_RightArm
+    100380: DebbyCharacter_RightFoot
+    100382: DebbyCharacter_RightForeArm
+    100384: DebbyCharacter_RightHand
+    100386: DebbyCharacter_RightLeg
+    100388: DebbyCharacter_RightShoulder
+    100390: DebbyCharacter_RightToeBase
+    100392: DebbyCharacter_RightUpLeg
+    100394: DebbyCharacter_Spine
+    100396: DebbyCharacter_Spine1
+    100398: DebbyCharacter_Spine2
+    100400: joint1
+    100402: joint10
+    100404: joint11
+    100406: joint12
+    100408: joint13
+    100410: joint14
+    100412: joint15
+    100414: joint16
+    100416: joint17
+    100418: joint18
+    100420: joint19
+    100422: joint2
+    100424: joint2 1
+    100426: joint2 2
+    100428: joint2 3
+    100430: joint20
+    100432: joint21
+    100434: joint22
+    100436: joint23
+    100438: joint24
+    100440: joint25
+    100442: joint26
+    100444: joint27
+    100446: joint28
+    100448: joint29
+    100450: joint3
+    100452: joint3 1
+    100454: joint3 2
+    100456: joint3 3
+    100458: joint30
+    100460: joint31
+    100462: joint32
+    100464: joint33
+    100466: joint34
+    100468: joint35
+    100470: joint36
+    100472: joint37
+    100474: joint38
+    100476: joint4
+    100478: joint4 1
+    100480: joint4 2
+    100482: joint4 3
+    100484: joint5
+    100486: joint5 1
+    100488: joint5 2
+    100490: joint5 3
+    100492: joint6
+    100494: joint7
+    100496: joint8
+    100498: joint9
+    400000: //RootNode
+    400002: DebbyRig_TEST:Debby_Combined:polySurface28
+    400004: DebbyRig_TEST:DebbyCharacter_Head
+    400006: DebbyRig_TEST:DebbyCharacter_Hips
+    400008: DebbyRig_TEST:DebbyCharacter_LeftArm
+    400010: DebbyRig_TEST:DebbyCharacter_LeftFoot
+    400012: DebbyRig_TEST:DebbyCharacter_LeftForeArm
+    400014: DebbyRig_TEST:DebbyCharacter_LeftHand
+    400016: DebbyRig_TEST:DebbyCharacter_LeftLeg
+    400018: DebbyRig_TEST:DebbyCharacter_LeftShoulder
+    400020: DebbyRig_TEST:DebbyCharacter_LeftToeBase
+    400022: DebbyRig_TEST:DebbyCharacter_LeftUpLeg
+    400024: DebbyRig_TEST:DebbyCharacter_Neck
+    400026: DebbyRig_TEST:DebbyCharacter_Reference
+    400028: DebbyRig_TEST:DebbyCharacter_RightArm
+    400030: DebbyRig_TEST:DebbyCharacter_RightFoot
+    400032: DebbyRig_TEST:DebbyCharacter_RightForeArm
+    400034: DebbyRig_TEST:DebbyCharacter_RightHand
+    400036: DebbyRig_TEST:DebbyCharacter_RightLeg
+    400038: DebbyRig_TEST:DebbyCharacter_RightShoulder
+    400040: DebbyRig_TEST:DebbyCharacter_RightToeBase
+    400042: DebbyRig_TEST:DebbyCharacter_RightUpLeg
+    400044: DebbyRig_TEST:DebbyCharacter_Spine
+    400046: DebbyRig_TEST:DebbyCharacter_Spine1
+    400048: DebbyRig_TEST:DebbyCharacter_Spine2
+    400050: DebbyRig_TEST:joint1
+    400052: DebbyRig_TEST:joint10
+    400054: DebbyRig_TEST:joint11
+    400056: DebbyRig_TEST:joint12
+    400058: DebbyRig_TEST:joint13
+    400060: DebbyRig_TEST:joint14
+    400062: DebbyRig_TEST:joint15
+    400064: DebbyRig_TEST:joint16
+    400066: DebbyRig_TEST:joint17
+    400068: DebbyRig_TEST:joint18
+    400070: DebbyRig_TEST:joint19
+    400072: DebbyRig_TEST:joint2
+    400074: DebbyRig_TEST:joint2 1
+    400076: DebbyRig_TEST:joint2 2
+    400078: DebbyRig_TEST:joint2 3
+    400080: DebbyRig_TEST:joint20
+    400082: DebbyRig_TEST:joint21
+    400084: DebbyRig_TEST:joint22
+    400086: DebbyRig_TEST:joint23
+    400088: DebbyRig_TEST:joint24
+    400090: DebbyRig_TEST:joint25
+    400092: DebbyRig_TEST:joint26
+    400094: DebbyRig_TEST:joint27
+    400096: DebbyRig_TEST:joint28
+    400098: DebbyRig_TEST:joint29
+    400100: DebbyRig_TEST:joint3
+    400102: DebbyRig_TEST:joint3 1
+    400104: DebbyRig_TEST:joint3 2
+    400106: DebbyRig_TEST:joint3 3
+    400108: DebbyRig_TEST:joint30
+    400110: DebbyRig_TEST:joint31
+    400112: DebbyRig_TEST:joint32
+    400114: DebbyRig_TEST:joint33
+    400116: DebbyRig_TEST:joint34
+    400118: DebbyRig_TEST:joint35
+    400120: DebbyRig_TEST:joint36
+    400122: DebbyRig_TEST:joint37
+    400124: DebbyRig_TEST:joint38
+    400126: DebbyRig_TEST:joint4
+    400128: DebbyRig_TEST:joint4 1
+    400130: DebbyRig_TEST:joint4 2
+    400132: DebbyRig_TEST:joint4 3
+    400134: DebbyRig_TEST:joint5
+    400136: DebbyRig_TEST:joint5 1
+    400138: DebbyRig_TEST:joint5 2
+    400140: DebbyRig_TEST:joint5 3
+    400142: DebbyRig_TEST:joint6
+    400144: DebbyRig_TEST:joint7
+    400146: DebbyRig_TEST:joint8
+    400148: DebbyRig_TEST:joint9
+    400150: Character1_Ctrl_ChestEndEffector
+    400152: Character1_Ctrl_ChestOriginEffector
+    400154: Character1_Ctrl_Head
+    400156: Character1_Ctrl_HeadEffector
+    400158: Character1_Ctrl_Hips
+    400160: Character1_Ctrl_HipsEffector
+    400162: Character1_Ctrl_LeafLeftForeArmRoll1
+    400164: Character1_Ctrl_LeafRightForeArmRoll1
+    400166: Character1_Ctrl_LeftAnkleEffector
+    400168: Character1_Ctrl_LeftArm
+    400170: Character1_Ctrl_LeftElbowEffector
+    400172: Character1_Ctrl_LeftFoot
+    400174: Character1_Ctrl_LeftFootEffector
+    400176: Character1_Ctrl_LeftForeArm
+    400178: Character1_Ctrl_LeftHand
+    400180: Character1_Ctrl_LeftHandIndex1
+    400182: Character1_Ctrl_LeftHandIndex2
+    400184: Character1_Ctrl_LeftHandIndex3
+    400186: Character1_Ctrl_LeftHandIndex4
+    400188: Character1_Ctrl_LeftHandIndexEffector
+    400190: Character1_Ctrl_LeftHandMiddle1
+    400192: Character1_Ctrl_LeftHandMiddle2
+    400194: Character1_Ctrl_LeftHandMiddle3
+    400196: Character1_Ctrl_LeftHandMiddle4
+    400198: Character1_Ctrl_LeftHandMiddleEffector
+    400200: Character1_Ctrl_LeftHandPinky1
+    400202: Character1_Ctrl_LeftHandPinky2
+    400204: Character1_Ctrl_LeftHandPinky3
+    400206: Character1_Ctrl_LeftHandPinky4
+    400208: Character1_Ctrl_LeftHandPinkyEffector
+    400210: Character1_Ctrl_LeftHandRing1
+    400212: Character1_Ctrl_LeftHandRing2
+    400214: Character1_Ctrl_LeftHandRing3
+    400216: Character1_Ctrl_LeftHandRing4
+    400218: Character1_Ctrl_LeftHandRingEffector
+    400220: Character1_Ctrl_LeftHandThumb1
+    400222: Character1_Ctrl_LeftHandThumb2
+    400224: Character1_Ctrl_LeftHandThumb3
+    400226: Character1_Ctrl_LeftHandThumb4
+    400228: Character1_Ctrl_LeftHandThumbEffector
+    400230: Character1_Ctrl_LeftHipEffector
+    400232: Character1_Ctrl_LeftInHandIndex
+    400234: Character1_Ctrl_LeftInHandMiddle
+    400236: Character1_Ctrl_LeftInHandPinky
+    400238: Character1_Ctrl_LeftInHandRing
+    400240: Character1_Ctrl_LeftKneeEffector
+    400242: Character1_Ctrl_LeftLeg
+    400244: Character1_Ctrl_LeftShoulder
+    400246: Character1_Ctrl_LeftShoulderEffector
+    400248: Character1_Ctrl_LeftToeBase
+    400250: Character1_Ctrl_LeftUpLeg
+    400252: Character1_Ctrl_LeftWristEffector
+    400254: Character1_Ctrl_Neck
+    400256: Character1_Ctrl_Reference
+    400258: Character1_Ctrl_RightAnkleEffector
+    400260: Character1_Ctrl_RightArm
+    400262: Character1_Ctrl_RightElbowEffector
+    400264: Character1_Ctrl_RightFoot
+    400266: Character1_Ctrl_RightFootEffector
+    400268: Character1_Ctrl_RightForeArm
+    400270: Character1_Ctrl_RightHand
+    400272: Character1_Ctrl_RightHandIndex1
+    400274: Character1_Ctrl_RightHandIndex2
+    400276: Character1_Ctrl_RightHandIndex3
+    400278: Character1_Ctrl_RightHandIndex4
+    400280: Character1_Ctrl_RightHandIndexEffector
+    400282: Character1_Ctrl_RightHandMiddle1
+    400284: Character1_Ctrl_RightHandMiddle2
+    400286: Character1_Ctrl_RightHandMiddle3
+    400288: Character1_Ctrl_RightHandMiddle4
+    400290: Character1_Ctrl_RightHandMiddleEffector
+    400292: Character1_Ctrl_RightHandPinky1
+    400294: Character1_Ctrl_RightHandPinky2
+    400296: Character1_Ctrl_RightHandPinky3
+    400298: Character1_Ctrl_RightHandPinky4
+    400300: Character1_Ctrl_RightHandPinkyEffector
+    400302: Character1_Ctrl_RightHandRing1
+    400304: Character1_Ctrl_RightHandRing2
+    400306: Character1_Ctrl_RightHandRing3
+    400308: Character1_Ctrl_RightHandRing4
+    400310: Character1_Ctrl_RightHandRingEffector
+    400312: Character1_Ctrl_RightHandThumb1
+    400314: Character1_Ctrl_RightHandThumb2
+    400316: Character1_Ctrl_RightHandThumb3
+    400318: Character1_Ctrl_RightHandThumb4
+    400320: Character1_Ctrl_RightHandThumbEffector
+    400322: Character1_Ctrl_RightHipEffector
+    400324: Character1_Ctrl_RightInHandIndex
+    400326: Character1_Ctrl_RightInHandMiddle
+    400328: Character1_Ctrl_RightInHandPinky
+    400330: Character1_Ctrl_RightInHandRing
+    400332: Character1_Ctrl_RightKneeEffector
+    400334: Character1_Ctrl_RightLeg
+    400336: Character1_Ctrl_RightShoulder
+    400338: Character1_Ctrl_RightShoulderEffector
+    400340: Character1_Ctrl_RightToeBase
+    400342: Character1_Ctrl_RightUpLeg
+    400344: Character1_Ctrl_RightWristEffector
+    400346: Character1_Ctrl_Spine
+    400348: Character1_Ctrl_Spine1
+    400350: Character1_Ctrl_Spine2
+    400352: Debby_Combined:polySurface28
+    400354: DebbyCharacter_Head
+    400356: DebbyCharacter_Hips
+    400358: DebbyCharacter_LeftArm
+    400360: DebbyCharacter_LeftFoot
+    400362: DebbyCharacter_LeftForeArm
+    400364: DebbyCharacter_LeftHand
+    400366: DebbyCharacter_LeftLeg
+    400368: DebbyCharacter_LeftShoulder
+    400370: DebbyCharacter_LeftToeBase
+    400372: DebbyCharacter_LeftUpLeg
+    400374: DebbyCharacter_Neck
+    400376: DebbyCharacter_Reference
+    400378: DebbyCharacter_RightArm
+    400380: DebbyCharacter_RightFoot
+    400382: DebbyCharacter_RightForeArm
+    400384: DebbyCharacter_RightHand
+    400386: DebbyCharacter_RightLeg
+    400388: DebbyCharacter_RightShoulder
+    400390: DebbyCharacter_RightToeBase
+    400392: DebbyCharacter_RightUpLeg
+    400394: DebbyCharacter_Spine
+    400396: DebbyCharacter_Spine1
+    400398: DebbyCharacter_Spine2
+    400400: joint1
+    400402: joint10
+    400404: joint11
+    400406: joint12
+    400408: joint13
+    400410: joint14
+    400412: joint15
+    400414: joint16
+    400416: joint17
+    400418: joint18
+    400420: joint19
+    400422: joint2
+    400424: joint2 1
+    400426: joint2 2
+    400428: joint2 3
+    400430: joint20
+    400432: joint21
+    400434: joint22
+    400436: joint23
+    400438: joint24
+    400440: joint25
+    400442: joint26
+    400444: joint27
+    400446: joint28
+    400448: joint29
+    400450: joint3
+    400452: joint3 1
+    400454: joint3 2
+    400456: joint3 3
+    400458: joint30
+    400460: joint31
+    400462: joint32
+    400464: joint33
+    400466: joint34
+    400468: joint35
+    400470: joint36
+    400472: joint37
+    400474: joint38
+    400476: joint4
+    400478: joint4 1
+    400480: joint4 2
+    400482: joint4 3
+    400484: joint5
+    400486: joint5 1
+    400488: joint5 2
+    400490: joint5 3
+    400492: joint6
+    400494: joint7
+    400496: joint8
+    400498: joint9
+    2100000: DebbyRig_TEST_Debby_Combined_initialShadingGroup1
+    2100002: DebbyRig_TEST_Debby_Combined_Cynthia_Character_initialShadingGroup1
+    2100004: Debby_Combined_initialShadingGroup1
+    2100006: Debby_Combined_Cynthia_Character_initialShadingGroup1
+    4300000: DebbyRig_TEST:Debby_Combined:polySurface28
+    4300002: Debby_Combined:polySurface28
+    9500000: //RootNode
+    13700000: DebbyRig_TEST:Debby_Combined:polySurface28
+    13700002: Debby_Combined:polySurface28
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.98999995
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

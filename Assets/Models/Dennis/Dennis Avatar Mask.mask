@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dennis Avatar Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_ChestEndEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_ChestOriginEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_HeadEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_LeftUpLeg
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_LeftUpLeg/Dennis_HIKrig:Dennis_Ctrl_LeftLeg
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_LeftUpLeg/Dennis_HIKrig:Dennis_Ctrl_LeftLeg/Dennis_HIKrig:Dennis_Ctrl_LeftFoot
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_LeftUpLeg/Dennis_HIKrig:Dennis_Ctrl_LeftLeg/Dennis_HIKrig:Dennis_Ctrl_LeftFoot/Dennis_HIKrig:Dennis_Ctrl_LeftToeBase
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_RightUpLeg
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_RightUpLeg/Dennis_HIKrig:Dennis_Ctrl_RightLeg
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_RightUpLeg/Dennis_HIKrig:Dennis_Ctrl_RightLeg/Dennis_HIKrig:Dennis_Ctrl_RightFoot
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_RightUpLeg/Dennis_HIKrig:Dennis_Ctrl_RightLeg/Dennis_HIKrig:Dennis_Ctrl_RightFoot/Dennis_HIKrig:Dennis_Ctrl_RightToeBase
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandIndex1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandIndex1/Dennis_HIKrig:Dennis_Ctrl_LeftHandIndex2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandIndex1/Dennis_HIKrig:Dennis_Ctrl_LeftHandIndex2/Dennis_HIKrig:Dennis_Ctrl_LeftHandIndex3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandMiddle1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandMiddle1/Dennis_HIKrig:Dennis_Ctrl_LeftHandMiddle2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandMiddle1/Dennis_HIKrig:Dennis_Ctrl_LeftHandMiddle2/Dennis_HIKrig:Dennis_Ctrl_LeftHandMiddle3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandPinky1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandPinky1/Dennis_HIKrig:Dennis_Ctrl_LeftHandPinky2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandPinky1/Dennis_HIKrig:Dennis_Ctrl_LeftHandPinky2/Dennis_HIKrig:Dennis_Ctrl_LeftHandPinky3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandRing1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandRing1/Dennis_HIKrig:Dennis_Ctrl_LeftHandRing2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandRing1/Dennis_HIKrig:Dennis_Ctrl_LeftHandRing2/Dennis_HIKrig:Dennis_Ctrl_LeftHandRing3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandThumb1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandThumb1/Dennis_HIKrig:Dennis_Ctrl_LeftHandThumb2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_LeftShoulder/Dennis_HIKrig:Dennis_Ctrl_LeftArm/Dennis_HIKrig:Dennis_Ctrl_LeftForeArm/Dennis_HIKrig:Dennis_Ctrl_LeftHand/Dennis_HIKrig:Dennis_Ctrl_LeftHandThumb1/Dennis_HIKrig:Dennis_Ctrl_LeftHandThumb2/Dennis_HIKrig:Dennis_Ctrl_LeftHandThumb3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_Neck
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_Neck/Dennis_HIKrig:Dennis_Ctrl_Head
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandIndex1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandIndex1/Dennis_HIKrig:Dennis_Ctrl_RightHandIndex2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandIndex1/Dennis_HIKrig:Dennis_Ctrl_RightHandIndex2/Dennis_HIKrig:Dennis_Ctrl_RightHandIndex3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandMiddle1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandMiddle1/Dennis_HIKrig:Dennis_Ctrl_RightHandMiddle2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandMiddle1/Dennis_HIKrig:Dennis_Ctrl_RightHandMiddle2/Dennis_HIKrig:Dennis_Ctrl_RightHandMiddle3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandPinky1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandPinky1/Dennis_HIKrig:Dennis_Ctrl_RightHandPinky2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandPinky1/Dennis_HIKrig:Dennis_Ctrl_RightHandPinky2/Dennis_HIKrig:Dennis_Ctrl_RightHandPinky3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandRing1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandRing1/Dennis_HIKrig:Dennis_Ctrl_RightHandRing2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandRing1/Dennis_HIKrig:Dennis_Ctrl_RightHandRing2/Dennis_HIKrig:Dennis_Ctrl_RightHandRing3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandThumb1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandThumb1/Dennis_HIKrig:Dennis_Ctrl_RightHandThumb2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_Hips/Dennis_HIKrig:Dennis_Ctrl_Spine/Dennis_HIKrig:Dennis_Ctrl_Spine1/Dennis_HIKrig:Dennis_Ctrl_Spine2/Dennis_HIKrig:Dennis_Ctrl_Spine3/Dennis_HIKrig:Dennis_Ctrl_Spine4/Dennis_HIKrig:Dennis_Ctrl_RightShoulder/Dennis_HIKrig:Dennis_Ctrl_RightArm/Dennis_HIKrig:Dennis_Ctrl_RightForeArm/Dennis_HIKrig:Dennis_Ctrl_RightHand/Dennis_HIKrig:Dennis_Ctrl_RightHandThumb1/Dennis_HIKrig:Dennis_Ctrl_RightHandThumb2/Dennis_HIKrig:Dennis_Ctrl_RightHandThumb3
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_HipsEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftAnkleEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftElbowEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftFootEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftHandIndexEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftHandMiddleEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftHandPinkyEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftHandRingEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftHandThumbEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftHipEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftKneeEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftShoulderEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_LeftWristEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightAnkleEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightElbowEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightFootEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightHandIndexEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightHandMiddleEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightHandPinkyEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightHandRingEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightHandThumbEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightHipEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightKneeEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightShoulderEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Ctrl_Reference/Dennis_HIKrig:Dennis_Ctrl_RightWristEffector
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:Dennis_Mesh
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisLLeg1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisLLeg1/Dennis_HIKrig:DennisLLeg2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisLLeg1/Dennis_HIKrig:DennisLLeg2/Dennis_HIKrig:DennisLLegAnkle
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisLLeg1/Dennis_HIKrig:DennisLLeg2/Dennis_HIKrig:DennisLLegAnkle/Dennis_HIKrig:DennisLLegDigit11
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisLLeg1/Dennis_HIKrig:DennisLLeg2/Dennis_HIKrig:DennisLLegAnkle/Dennis_HIKrig:DennisLLegDigit11/Dennis_HIKrig:DennisLLegDigit12
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisRLeg1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisRLeg1/Dennis_HIKrig:DennisRLeg2
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisRLeg1/Dennis_HIKrig:DennisRLeg2/Dennis_HIKrig:DennisRLegAnkle
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisRLeg1/Dennis_HIKrig:DennisRLeg2/Dennis_HIKrig:DennisRLegAnkle/Dennis_HIKrig:DennisRLegDigit11
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisRLeg1/Dennis_HIKrig:DennisRLeg2/Dennis_HIKrig:DennisRLegAnkle/Dennis_HIKrig:DennisRLegDigit11/Dennis_HIKrig:DennisRLegDigit12
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1
+    m_Weight: 0
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisHub002Bone001
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisHub002Bone001/Dennis_HIKrig:DennisHub002Bone001Bone001
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit11
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit11/Dennis_HIKrig:DennisLArmDigit12
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit11/Dennis_HIKrig:DennisLArmDigit12/Dennis_HIKrig:DennisLArmDigit13
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit21
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit21/Dennis_HIKrig:DennisLArmDigit22
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit21/Dennis_HIKrig:DennisLArmDigit22/Dennis_HIKrig:DennisLArmDigit23
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit31
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit31/Dennis_HIKrig:DennisLArmDigit32
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit31/Dennis_HIKrig:DennisLArmDigit32/Dennis_HIKrig:DennisLArmDigit33
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit41
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit41/Dennis_HIKrig:DennisLArmDigit42
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit41/Dennis_HIKrig:DennisLArmDigit42/Dennis_HIKrig:DennisLArmDigit43
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit51
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit51/Dennis_HIKrig:DennisLArmDigit52
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisLArmCollarbone/Dennis_HIKrig:DennisLArm1/Dennis_HIKrig:DennisLArm2/Dennis_HIKrig:DennisLArmPalm/Dennis_HIKrig:DennisLArmDigit51/Dennis_HIKrig:DennisLArmDigit52/Dennis_HIKrig:DennisLArmDigit53
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit11
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit11/Dennis_HIKrig:DennisRArmDigit12
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit11/Dennis_HIKrig:DennisRArmDigit12/Dennis_HIKrig:DennisRArmDigit13
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit21
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit21/Dennis_HIKrig:DennisRArmDigit22
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit31
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit31/Dennis_HIKrig:DennisRArmDigit32
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit41
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit41/Dennis_HIKrig:DennisRArmDigit42
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit51
+    m_Weight: 1
+  - m_Path: Dennis_HIKrig:DennisHub001/Dennis_HIKrig:DennisSpine1/Dennis_HIKrig:DennisSpine2/Dennis_HIKrig:DennisSpine3/Dennis_HIKrig:DennisSpine4/Dennis_HIKrig:DennisSpine5/Dennis_HIKrig:DennisHub002/Dennis_HIKrig:DennisRArmCollarbone/Dennis_HIKrig:DennisRArm1/Dennis_HIKrig:DennisRArm2/Dennis_HIKrig:DennisRArmPalm/Dennis_HIKrig:DennisRArmDigit51/Dennis_HIKrig:DennisRArmDigit52
+    m_Weight: 1

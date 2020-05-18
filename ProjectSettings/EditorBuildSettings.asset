@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Jack_Dev/Scenes/JackClient.unity
+    guid: e9bfa8bf591d84b42903f86cdfdacedd
+  - enabled: 0
+    path: Assets/Jack_Dev/Scenes/JackServer.unity
+    guid: a978a7007c43c8f46982aa7f1777adcb
+  - enabled: 0
+    path: Assets/Jack_Dev/Scenes/TestNet.unity
+    guid: a343d4a4c16bdfb4fa410e3b8459bf7b
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b479815bf82c8b64d8a68c6a78997216
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: b779d3a6cc892bc40994baec9ecfeddc
+  - enabled: 0
+    path: Assets/callum-dev/TestNetLevel.unity
+    guid: aa430e3c38e77324f948c62fd51e061f
+  - enabled: 0
+    path: Assets/Scenes/test-level.unity
+    guid: 189197a7760f97442bb3c388fc88a5d5
+  - enabled: 1
+    path: Assets/Scenes/Office New.unity
+    guid: a7110095c68ba65428b2f6e530fab381
+  m_configObjects: {}
